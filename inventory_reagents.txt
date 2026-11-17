@@ -1,0 +1,8 @@
+REA-101||Glucose Reagent||Medicines / Reagents||Roche Diagnostics||BTH-GLU-9021||15||1450.0||15-Nov-2027||Apex Bio Supplies||Cold Storage (2-8°C)||5
+REA-102||Hemoglobin Reagent||Medicines / Reagents||Erba Mannheim||BTH-HGB-3341||22||850.0||10-Aug-2027||MedSupply Corp||Room Temp Cabinet||8
+REA-103||Cholesterol Reagent||Medicines / Reagents||Siemens Healthineers||BTH-CHOL-7782||8||2100.0||05-Dec-2026||MediLife Diagnostics||Cold Storage (2-8°C)||6
+REA-104||Urea Reagent||Medicines / Reagents||Bio-Rad Labs||BTH-UREA-4419||12||1650.0||20-Jan-2028||Apex Bio Supplies||Cold Storage (2-8°C)||4
+REA-105||Creatinine Reagent||Medicines / Reagents||Beckman Coulter||BTH-CRE-6120||10||1250.0||18-Feb-2028||LabWorld Agencies||Room Temp Cabinet||5
+REA-106||Dengue Test Kits||Medicines / Reagents||Abbott Diagnostics||BTH-DNG-5522||4||3800.0||30-Oct-2026||Apex Bio Supplies||Cold Storage (2-8°C)||10
+REA-107||Troponin Test Kits||Medicines / Reagents||Siemens Healthineers||BTH-TROP-8811||3||4500.0||15-Jan-2027||MediLife Diagnostics||Deep Freezer (-20°C)||5
+REA-108||COVID-19 Test Kits||Medicines / Reagents||Thermo Fisher||BTH-COV-1029||18||5200.0||25-Dec-2027||MedSupply Corp||Deep Freezer (-20°C)||6

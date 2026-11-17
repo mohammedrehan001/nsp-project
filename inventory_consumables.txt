@@ -1,0 +1,9 @@
+CON-101||Glass Test Tubes||Consumables||250||Pieces||BTH-TT-1102||30-Dec-2029||Borosil Scientific||50
+CON-102||Disposable Syringes||Consumables||180||Pieces||BTH-SYR-9844||15-Jun-2028||HMD DispoVan||100
+CON-103||Blood Vacutainers||Consumables||320||Pieces||BTH-VAC-7711||20-Oct-2027||BD Biosciences||100
+CON-104||Nitrile Gloves||Consumables||8||Boxes (100 pcs)||BTH-GLV-4432||15-Aug-2028||Safeguard Medical||15
+CON-105||Surgical Masks||Consumables||12||Boxes (50 pcs)||BTH-MSK-2210||10-Nov-2028||MediCare Supplies||10
+CON-106||Hypodermic Needles||Consumables||45||Pieces||BTH-NDL-6631||18-Sep-2028||HMD DispoVan||100
+CON-107||Glass Slides||Consumables||15||Packs (50 pcs)||BTH-SLD-8820||01-Jan-2030||Blue Star Optical||5
+CON-108||Cotton Wool||Consumables||14||Rolls||BTH-COT-3319||25-May-2029||Pavitra Pharma||5
+CON-109||Alcohol Swabs||Consumables||6||Boxes (100 pcs)||BTH-ALC-5541||12-Jul-2027||Becton Dickinson||10

@@ -1,0 +1,9 @@
+# Git: जानने लायक फाइलें जो पुश नहीं होनी चाहिए
+out/
+*.class
+MedLab_SRS_Report.html
+MedLab_SRS_Report.docx
+MedLab_NSP_Report.md
+cleanup_mysql.ps1
+cleanup_mysql_complete.bat
+*.log

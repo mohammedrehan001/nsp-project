@@ -1,0 +1,10 @@
+ghjkmyhuj||Microscope||Lab Instruments||Olympus||CX23-LED||SN-21349||1||Pathology Lab Room 102||17-Nov-2026||Operational||17-Nov-2026||17-Nov-2026
+INS-101||Microscope||Lab Instruments||Olympus||CX23-LED||SN-OLY-4412||4||Pathology Lab Room 102||15-Jan-2024||Operational||10-Aug-2026||10-Feb-2027
+INS-102||Spectrophotometer||Lab Instruments||Thermo Scientific||Evolution 201||SN-TS-9921||2||Biochemistry Station||12-Mar-2023||Operational||05-Jul-2026||05-Jan-2027
+INS-103||Centrifuge||Lab Instruments||Beckman Coulter||Allegra X-30R||SN-BC-7723||3||Sample Prep Area||20-Jun-2023||Operational||18-Aug-2026||18-Feb-2027
+INS-104||Hematology Analyzer||Lab Instruments||Sysmex Corporation||XN-550||SN-SYX-3310||1||Hematology Main Bay||10-Nov-2023||Calibration Required||01-Jun-2026||01-Dec-2026
+INS-105||Biochemistry Analyzer||Lab Instruments||Roche Cobas||Cobas c311||SN-RCH-8120||1||Biochemistry Section||05-May-2022||Operational||12-Sep-2026||12-Mar-2027
+INS-106||Incubator||Lab Instruments||Memmert||IN55||SN-MEM-6641||2||Microbiology Room||18-Aug-2024||Operational||15-Jul-2026||15-Jan-2027
+INS-107||Autoclave||Lab Instruments||Equitron||EQ-PAD-75||SN-EQ-5529||2||Sterilization & Wash Bay||22-Feb-2024||Under Maintenance||20-Aug-2026||20-Nov-2026
+INS-108||pH Meter||Lab Instruments||Mettler Toledo||SevenDirect SD20||SN-MT-1194||3||Reagent Prep Bench||14-Oct-2024||Operational||25-Aug-2026||25-Feb-2027
+INS-109||Micropipette Set||Lab Instruments||Eppendorf||Research Plus 10-1000uL||SN-EPP-9023||8||All Testing Stations||02-Dec-2024||Operational||10-Sep-2026||10-Dec-2026
